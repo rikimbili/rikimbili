@@ -1,6 +1,6 @@
 <h1>Hey there <img src="https://i.imgur.com/Mi3uFtH.gif" width="32px"></h1>
 
-<p>I’m Raciel Antela Pardo, a Computer Science undergraduate student at the University of Central Florida. I’m expecting to get a bachelor’s degree by Spring, 2024. Aside from just being a student, I like to build full-stack responsive web applications that are useful and fun. I try to follow modern practices and tooling to make my code better and easier to work with.</p>
+<p>I’m Raciel Antela Pardo, a Computer Science undergraduate student at the University of Central Florida. I’m expecting to get my bachelor’s degree by Spring, 2024. Aside from just doing coursework, I like to build full-stack responsive web applications that are useful and fun. I try to follow modern practices and tooling to make my code better and easier to work with.</p>
 <p>If you’re curious about what I’ve been working on lately, <a href="https://raciel.dev/#projects">take a peek at my projects!😉</a></p>
 
 <hr>
