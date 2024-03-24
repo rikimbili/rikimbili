@@ -2,7 +2,7 @@
 
 I’m Raciel, a Computer Science student at the University of Central Florida. I’m expecting to get my bachelor’s degree by Spring, 2024.
   
-I spend most of my free time building full-stack responsive web applications. If you’re curious about what I’ve been working on lately, [take a peek at my projects!](https://raciel.dev/#projects)😉
+I spend most of my free time building full-stack web applications. If you’re curious about what I’ve been working on lately, [take a peek at my projects!](https://raciel.dev/#projects)😉
 
 ---
 
