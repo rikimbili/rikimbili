@@ -13,6 +13,5 @@ I’m Raciel, and I enjoy building web applications and solving technical challe
   
 [![Email Badge](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:hi@raciel.dev)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/racielap)
-[![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/hq4b6g53rt66krufjr2pnfqhc?si=035315f5f0d24075)
 
 </div>
