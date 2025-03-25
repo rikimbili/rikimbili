@@ -1,8 +1,6 @@
 # Hey there <img src="https://i.imgur.com/Mi3uFtH.gif" width="32px">
 
-I’m Raciel, currently working as a backend software engineer at Oracle.
-  
-I enjoy building full-stack web applications. If you’re curious about what I’ve been working on lately, [take a peek at my projects!](https://raciel.dev/#projects)😉
+I’m Raciel, and I enjoy building web applications and solving technical challenges. If you’re curious about what I’ve been working on lately, [take a peek at my projects!](https://raciel.dev/#projects)😉
 
 ---
 
